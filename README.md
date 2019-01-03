@@ -1,8 +1,8 @@
 # Vim <-> Evince forward and backward search for vim-LaTeXSuite and VimTeX
 
-This plugin provides backwards and forward search between GVIM and [Evince](https://wiki.gnome.org/Apps/Evince).
+This plugin provides backwards and forward search between VIM and [Evince](https://wiki.gnome.org/Apps/Evince).
 
-> Only works on GVIM at the moment.
+> Not tested on GVIM at the moment.
 
 # Installation
 
